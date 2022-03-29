@@ -1,4 +1,6 @@
 POO05
+Curso C# Alura - Orientação a objeto; Professor: Guilherme Matheus Costa; Fiz todos os códigos adiconando comentários em cada item;
+
 Projeto de Biblioteca:
 Introdução;
 Biblioteca de classes;
